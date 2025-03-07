@@ -1,0 +1,1 @@
+Este es un proyecto para la clase de programación web consta de el archivo pages que contiene el mapa de navegabilidad de la pagina web, aqui falta el archivo de los css y las imagenes que complementan la página. la página no ha sido publicada, se utilizara posteriormente el host 000webhost.com
